@@ -12,11 +12,6 @@ Trabalho como **Engenheira de Software Junior na Cora** desde setembro de 2021. 
 - **Linguagens:** Python, Kotlin, JavaScript, SQL (PostgreSQL).
 - **Frontend/Low-code:** Retool.
 - **Observabilidade:** DataDog, Grafana.
-
-### 📊 Minhas Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=anaknunes&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=anaknunes&layout=compact&theme=radical)
-
 ---
 
 ### 📫 Vamos nos conectar?
