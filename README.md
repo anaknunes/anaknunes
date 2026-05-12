@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou a Ana Karla! 👋
 
-<!--
-**anaknunes/anaknunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trabalho como **Engenheira de Software Junior na Cora** desde setembro de 2021. Faço parte do time de **Plataforma**, focado em **Produtos Internos**, onde transformo desafios técnicos em soluções que facilitam a vida dos nossos times de atendimento (BPO) e CX.
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim
+- 🏦 Atuo no setor bancário (PJ), criando e otimizando ferramentas internas.
+- 🛠️ Especialista em debugar e criar telas no **Retool** e automatizar processos críticos.
+- 📊 Utilizo **Grafana** e **DataDog** para garantir a saúde e observabilidade das nossas aplicações.
+- 🎓 Atualmente aprofundando meus conhecimentos em **Java, Python, JavaScript** e aprimorando meu **Inglês**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Python, Kotlin, JavaScript, SQL (PostgreSQL).
+- **Frontend/Low-code:** Retool.
+- **Observabilidade:** DataDog, Grafana.
+
+### 📊 Minhas Estatísticas
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=anaknunes&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=anaknunes&layout=compact&theme=radical)
+
+---
+
+### 📫 Vamos nos conectar?
+- **LinkedIn:** [anakarlanunesthomaz](https://www.linkedin.com/in/anakarlanunesthomaz/)
+- **Email:** annathomaz2109@gmail.com
+- **Perfil Corporativo:** [anathomaz2](https://github.com/anathomaz2)
